@@ -12,8 +12,5 @@ O **"Sortear Amigo Secreto"** é uma aplicação desenvolvida para facilitar a r
 - **Reiniciar o sorteio:** Permite realizar o sorteio quantas vezes desejar, com a flexibilidade de modificar o número de pessoas envolvidas a cada novo sorteio.
 - **Interface intuitiva:** A aplicação possui uma interface simples e fácil de usar, garantindo uma experiência tranquila para todos os usuários.
 
-## **Na prática**
-[!](https://github.com/user-lorraineassuncao/assets/CapturaDeTela.MP4)
-
 ## **Deploy**
-Ficou curioso para ver o resultado? Acesse a aplicação em [aqui](link) e faça o sorteio de amigo secreto de forma rápida e divertida!
+Ficou curioso para ver o resultado? Acesse a aplicação em [aqui](https://lorraineassuncao.github.io/ChallengeAmigoSecreto/) e faça o sorteio de amigo secreto de forma rápida e divertida!
